@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-# Método estilo francés corregido — traduce la segunda línea de cada par duplicado
-# Ultra rápido — ideal para OneDrive
 
 import os
 import csv
@@ -11,8 +9,8 @@ import re
 # RUTAS CONFIGURADAS
 # ============================
 
-CSV_FOLDER = r"C:\Users\elias\OneDrive\Escritorio\Traduccion Pokemon Fusion\LaTraduccion\Archivos Traducidos\Pegar en DATA\Data\data\scripts a ejecutar\csvs"
-INTL_PATH = r"C:\Users\elias\OneDrive\Escritorio\Traduccion Pokemon Fusion\LaTraduccion\Archivos Traducidos\Pegar en DATA\Data\data\scripts a ejecutar\intl.txt"
+CSV_FOLDER = r"\ubicaciondel\csvs"
+INTL_PATH = r"\ubicaciondel\intl.txt"
 
 # ============================
 # Cargar todos los CSV
@@ -54,9 +52,7 @@ def load_all_csvs(folder):
     print("Entradas totales:", len(mapping))
     return mapping
 
-# ============================
-# Método francés: solo segunda línea de pares duplicados
-# ============================
+
 
 def apply_translations(intl, mapping):
     with open(intl, encoding="utf-8", errors="replace") as f:
@@ -88,7 +84,7 @@ def apply_translations(intl, mapping):
         else:
             i += 1
 
-    out_path = intl.replace(".txt", "_translated_FRmethod.txt")
+    out_path = intl.replace(".txt", "_translated.txt")
     with open(out_path, "w", encoding="utf-8") as f:
         f.writelines(output)
 
@@ -103,7 +99,7 @@ def main():
     print("Cargando CSV...")
     mapping = load_all_csvs(CSV_FOLDER)
 
-    print("\nAplicando método francés...")
+    print("\nMappeando...")
     apply_translations(INTL_PATH, mapping)
 
 if __name__ == "__main__":

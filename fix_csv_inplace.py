@@ -10,7 +10,7 @@ import time
 import re
 
 # Ajusta aquí si tu carpeta está en otro lugar
-CSV_FOLDER = r"C:\Users\elias\OneDrive\Escritorio\Traduccion Pokemon Fusion\LaTraduccion\Archivos Traducidos\Pegar en DATA\Data\data\scripts a ejecutar\csvs"
+CSV_FOLDER = r"ubicaciondel\csvs"
 ENCODING = "utf-8"
 
 
