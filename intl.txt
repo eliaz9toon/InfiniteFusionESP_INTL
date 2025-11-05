@@ -52,7 +52,7 @@ Muy bien, aquí tienes tu primera carta.
 \rGambler \V[6] gets the \V[28] of \V[31] (total : \V[32])
 \rJugador \V[6] obtiene el \V[28] de \V[31] (total : \V[32])
 Gambler \V[6] stands.
-Gambler \V[6] stands.
+Jugador \V[6] se mantiene.
 It's a tie! Nobody wins!
 ¡Es un empate! ¡Nadie gana!
 Gambler \V[6] wins!
@@ -250,7 +250,7 @@ Muchas veces, los problemas que experimentas ya se han solucionado en una actual
 You can download the most recent version on the game's Pokecommunity page.
 Puedes descargar la versión más reciente en la página del juego en Pokecommunity.
 If you already made sure that you are on the most recent version of the game and the issue persists, I can try and reset some of the game's parameters to see if it fixes it.
-If you already made sure that you are on the most recent version of the game and the issue persists, I can try and reset some of the game's parameters to see if it fixes it.
+Si ya te has asegurado de que tienes la versión más reciente del juego y el problema persiste, puedo intentar restablecer algunos de los parámetros del juego para ver si se soluciona.
 However, this could potentially have some unintended consequences. Would you like to proceed?
 Sin embargo, esto podría tener consecuencias no deseadas. ¿Quieres continuar?
 Hopefully this helps!
@@ -330,7 +330,7 @@ Use regular starters?
 Use which set of starters?
 ¿Qué conjunto de iniciales quieres usar?
 \ch[1,0,Kanto,Johto,Hoenn,Sinnoh,Kalos, Mixed Generations, Custom]
-\ch[1,0,Kanto,Johto,Hoenn,Sinnoh,Kalos, Mixed Generations, Custom]
+\ch[1,0,Kanto,Johto,Hoenn,Sinnoh,Kalos, Generaciones Mixtas, Personalizado]
 Choose a starter Pokémon.
 Elige un Pokémon inicial.
 Choose your starter Pokémon's body
@@ -350,7 +350,7 @@ No pareces una persona especialmente buena...
 You strike me as someone who can be a bit mean-spirited sometimes, but still generally well-intentioned.
 Pareces alguien que a veces puede ser un poco mala, pero en general con buenas intenciones.
 You strike me as a very neutral person. Neither good, nor bad.
-You strike me as a very neutral person. Neither good, nor bad.
+Me das la impresión de ser alguien bastante neutral. Ni especialmente bueno, ni malo.
 You seem like you're very pure of heart and always willing to help the ones in need.
 Pareces alguien muy puro de corazón y siempre dispuesto a ayudar a quienes lo necesitan.
 You strike me as someone who tries its earnest to always do the right thing.
@@ -378,7 +378,7 @@ Recientemente, mi colega, el profesor Elm en Johto, encontró información nueva
 He says he'd need the assistance of a strong trainer, so I thought you'd be the perfect candidate.
 Dice que necesitaría la ayuda de un entrenador fuerte, así que pensé que serías el candidato perfecto.
 His lab is located in New Bark Town in the Johto region. It's a long way from here, but do you think you could pay him a visit?
-His lab is located in New Bark Town in the Johto region.  It's a long way from here, but do you think you could pay him a visit?
+Su laboratorio está en Pueblo Primavera, en la región de Johto. Está bastante lejos de aquí, pero ¿crees que podrías ir a visitarlo?
 Please! Professor Elm would greatly benefit from the field experience of a powerful trainer like yourself.
 Te lo suplico, ¡el Profesor Elm aprovecharía mucho la experiencia de un entrenador con tu nivel!
 Won't you please reconsider?
@@ -408,11 +408,11 @@ Mientras menor es el grado, más Pokémon serán reemplazados por otros con esta
 The higher it is, the more they get randomized to anything.
 Mientras mayor es, más se aleatorizan hacia cualquier Pokémon.
 "Balanced" randomizes Pokémon to other Pokémon that have the same stats total. (Harder)
-"Balanced" randomizes Pokémon to other Pokémon that have the same stats total. (Harder)
+"Balanced" cambia cada Pokémon por otro con el mismo total de estadísticas. (Más difícil)
 "Insane" is completely random, so you could end up with legendaries on the first route or with a Magikarp at the Elite Four.
-"Insane" is completely random, so you could end up with legendaries on the first route or with a Magikarp at the Elite Four.
+"Insane" es completamente aleatorio, así que podrías ver legendarios en la primera ruta o encontrarte con un Magikarp contra el Alto Mando.
 (Easier)\n"Moderate" is somewhere in between. You can also set the base stats range yourself if you so choose.
-(Easier)\n"Moderate" is somewhere in between.  You can also set the base stats range yourself if you so choose.
+(Más fácil)\n"Moderate" está en un punto intermedio. También puedes ajustar tú mismo el rango de estadísticas base si lo prefieres.
 Generating new wild encounters file. This could take a little while.
 Generando nuevo archivo de encuentros salvajes. Esto podría tomar un poco de tiempo.
 Encounters succesfully randomized!
@@ -446,9 +446,9 @@ Randomize TMs?
 \C[7]Game's difficulty?
 \C[7]¿Dificultad del juego?
 Easy mode:\n - Makes every Pokémon on your team gain exp like in modern Pokémon games
-Easy mode:\n - Makes every Pokémon on your team gain exp like in modern Pokémon games
+Easy mode:\n - Hace que todos los Pokémon de tu equipo ganen experiencia, como en los juegos modernos.
 Hard mode:\n - NPC trainers are higher level and use better AI\n - NPC trainers have access to healing items\n - Next Pokémon's name is not displayed before switching
-Hard mode:\n - NPC trainers are higher level and use better AI\n - NPC trainers have access to healing items\n - Next Pokémon's name is not displayed before switching
+Hard mode:\n - Los entrenadores NPC tienen un nivel más alto y usan una IA mejorada\n - Los entrenadores NPC pueden usar objetos de curación\n - El nombre del siguiente Pokémon no se muestra antes de cambiar
 Notice to all trainers! We bring you this emergency news flash!
 ¡Aviso a todos los entrenadores! ¡Les traemos este boletín de emergencia!
 There have been report of two rare flying Pokémon in the Sevii Islands.
@@ -456,11 +456,11 @@ Se han reportado dos raros Pokémon voladores en las Islas Sevii.
 The Pokémon are \C[2]Red\C[0] and \C[1]Blue\C[0] coloured and they appear to be constantly on the move.
 Los Pokémon son de color \C[2]rojo\C[0] y \C[1]azul\C[0], y parecen estar en constante movimiento.
 There have also been reports of strong winds whenever these Pokémon are nearby.
-There have also been reports of strong winds whenever these Pokémon are nearby. 
+También se han registrado fuertes vientos siempre que estos Pokémon están cerca.
 This concludes our special report!
 ¡Esto concluye nuestro informe especial!
 Ok, you won! Here's your prize.
-Ok, you won! Here's your prize.
+¡Vale, has ganado! Aquí tienes tu premio.
 \PN received \V[254] Battle tokens!
 \PN recibió \V[254] fichas de batalla!
 \V[2]
@@ -488,7 +488,7 @@ You've got to have a \V[1] if you want to be a Pokémon master!
 Do you have your own \V[1]? Mine's fused, but it's still great!
 ¿Tienes tu propio \V[1]? El mío está fusionado, ¡pero sigue siendo genial!
 I'm not so sure about the Pokémon I fused my \V[1] with... Can I test it out with you?
-I'm not so sure about the Pokémon I fused my \V[1] with...  Can I test it out with you?
+No estoy muy seguro del Pokémon con el que fusioné mi \V[1]... ¿Puedo probarlo contigo?
 \V[1] isn't just a cutie, it's also really strong! Let me prove it to you!
 El \V[1] no solo es adorable, ¡también es muy fuerte! ¡Déjame demostrártelo!
 \V[1] has always been my favourite!
@@ -542,7 +542,7 @@ Bueno, de ninguna manera pasarás ahora, incluso si tienes el dinero.
 In fact, let me teach you a little lesson.
 De hecho, voy a enseñarte una pequeña lección.
 No! You can't do that! You have to pay!
-No! You can't do that! You have to pay!
+¡No! ¡No puedes hacer eso! ¡Tienes que pagar!
 Boss isn't going to be happy when he hears about this, no he won't!
 ¡Al jefe no le va a gustar nada cuando se entere de esto, no, nada!
 Huh? Did the boss order a change of guards?
@@ -554,7 +554,7 @@ Hey!
 It's $100 000 if you want to go through here!
 ¡Son $100,000 si quieres pasar por aquí!
 \GYou can't go to Saffron City without paying the toll. That's the rule!
-\GYou can't go to Saffron City without paying the toll.  That's the rule!
+\GNo puedes ir a Ciudad Azafrán sin pagar el peaje. Es la norma.
 \G\PN paid $100000
 \G\PN pagó $100000
 \C[7]<fs=22>I can't believe someone actually paid!</fs>
@@ -626,15 +626,15 @@ En \C[1]modo aleatorio\C[0], todos los entrenadores, encuentros salvajes y objet
 \C[1]Remix mode\C[0] is a special mode made by some members of the community that changes all of the trainer teams and wild encounters to showcase more Pokémon from the newer generations.
 \C[1]Modo remix\C[0] es un modo especial creado por algunos miembros de la comunidad que cambia todos los equipos de entrenadores y encuentros salvajes para mostrar más Pokémon de las generaciones más nuevas.
 In \C[1]Legendary mode\C[0], every trainer Pokémon gets fused with a legendary Pokémon.
-In \C[1]Legendary mode\C[0], every trainer Pokémon gets fused with a legendary Pokémon.
+En \C[1]Legendary mode\C[0], cada Pokémon de los entrenadores se fusiona con un Pokémon legendario.
 You also start with an egg of every legendary Pokémon in your PC and get a legendary starter.
-You also start with an egg of every legendary Pokémon in your PC and get a legendary starter.
+También comienzas con un huevo de cada Pokémon legendario en tu PC y recibes un inicial legendario.
 Which trainers do you want to use as a base for Legendary Mode?
-Which trainers do you want to use as a base for Legendary Mode? 
+¿Qué entrenadores quieres usar como base para el Modo Legendario?
 Legendary Mode modifies the teams of all trainers in the game to add legendaries to them.
-Legendary Mode modifies the teams of all trainers in the game to add legendaries to them.
+El Modo Legendario modifica los equipos de todos los entrenadores del juego para añadirles Pokémon legendarios.
 The teams of the trainers that it modifies can either be the ones from Classic Mode or the ones from Remix mode.
-The teams of the trainers that it modifies can either be the ones from Classic Mode or the ones from Remix mode.
+Los equipos de los entrenadores que modifica pueden ser los del Modo Clásico o los del Modo Remix.
 \C[1]Expert mode\C[0] mode is similar to Classic mode, but it changes all of the trainer teams to make them as challenging as possible. This is for veteran Pokémon trainers only!
 El modo \C[1]experto\C[0] es similar al modo clásico, pero cambia todos los equipos de entrenadores para hacerlos lo más desafiantes posible. ¡Este es solo para entrenadores Pokémon veteranos!
 \C[2]This game mode is still very much a work-in- progress.Many of the trainer teams may still have issues and are likely to change in the future.
@@ -668,7 +668,7 @@ Welcome to Pokémon Infinite Fusion!
 Before we get started, could you tell us where you downloaded the game from? (This data will not be collected).
 Antes de comenzar, ¿podrías decirnos de dónde descargaste el juego? (Estos datos no serán recopilados).
 Perfect! The game's official \C[3]Discord\C[0], the game's official \C[3]subreddit\C[0] and the game's \C[3] Pokecommunity\C[0] thread are the <b>only</b> safe places to download the game.
-Perfect! The game's official \C[3]Discord\C[0], the game's official \C[3]subreddit\C[0] and the game's \C[3] Pokecommunity\C[0] thread are the <b>only</b> safe places to download the game.
+¡Perfecto! El \C[3]Discord\C[0] oficial del juego, el \C[3]subreddit\C[0] oficial y el hilo en \C[3]Pokecommunity\C[0] son los <b>únicos</b> lugares seguros para descargar el juego.
 Pokémon Infinite Fusion does NOT currently have an official website, though this may change in the future.
 Pokémon Infinite Fusion actualmente NO tiene un sitio web oficial, aunque esto podría cambiar en el futuro.
 There have been multiple websites that reupload the game and pretend to be official websites to steal users information and we feel that it's important to inform the players.
@@ -694,23 +694,23 @@ Por favor, considera reportar el sitio falso a Google para ayudarnos a combatir 
 A link to the game's official Discord will now open in your browser.
 Ahora se abrirá un enlace al Discord oficial del juego en tu navegador.
 Accepted quests: \C[1]\V[96]\C[0]\n In-progress: \C[1]\V[97]\C[0]\n Completed quests: \C[1]\V[98]\C[0]
- Accepted quests: \C[1]\V[96]\C[0]\n In-progress: \C[1]\V[97]\C[0]\n Completed quests: \C[1]\V[98]\C[0]
+Misiones aceptadas: \C[1]\V[96]\C[0]\n En progreso: \C[1]\V[97]\C[0]\n Misiones completadas: \C[1]\V[98]\C[0]
 As a gift for having helped so many people, I want to give you these.
 Como regalo por haber ayudado a tantas personas, quiero darte esto.
 This strange cable triggers the evolution of Pokémon that typically evolve via trade. I know you'll put it to good use!
 Este extraño cable provoca la evolución de Pokémon que normalmente evolucionan por intercambio. ¡Sé que le darás buen uso!
 This handy item will allow you to sleep anywhere you want. You won't even need hotels anymore!
-This handy item will allow you to sleep anywhere you want.  You won't even need hotels anymore!
+Este objeto práctico te permitirá dormir donde quieras. ¡Ya no necesitarás hoteles!
 This rare stone can evolve any Pokémon, regardless of their level or evolution method. Use it wisely!
 Esta rara piedra puede hacer evolucionar a cualquier Pokémon, sin importar su nivel o método de evolución. ¡Úsala con sabiduría!
 This mysterious ball is rumored to be the key to call upon the protector of Ilex Forest. It's a precious relic.
-This mysterious ball is rumored to be the key to call upon the protector of Ilex Forest.  It's a precious relic.
+Se rumorea que esta bola misteriosa es la clave para invocar al guardián del Bosque Encinar. Es una reliquia muy valiosa.
 Help \V[103] more person and I'll give you something good!
 Ayuda a \V[103] personas más y te daré algo bueno.
 Oh oh oh! I'll give you a little something for your generosity!
 ¡Oh oh oh! ¡Te daré un pequeño obsequio por tu generosidad!
 Enter the Pokémon League challenge?
-Enter the Pokémon League challenge?
+¿Quieres participar en el desafío de la Liga Pokémon?
 Evaluate Pokédex
 Evaluar Pokédex
 Quit
@@ -750,7 +750,7 @@ Olvídalo
 Advanced options
 Opciones avanzadas
 Sprite Options
-Sprite Options
+Opciones de Sprites
 Fix game
 Arreglar juego
 Randomizer options
@@ -774,7 +774,7 @@ Modo Especie Única activado
 Reversed mode
 Modo Invertido
 Trainer rematch options
-Trainer rematch options
+Opciones de revancha del entrenador
 What is this?
 ¿Qué es esto?
 Reset trainer rematches
@@ -834,25 +834,25 @@ Atuendo anterior
 Classic
 Clásico
 Randomized Mode
-Randomized Mode
+Modo Randomizado
 Remix Mode
-Remix Mode
+Modo Remix
 Legendary Mode
-Legendary Mode
+Modo Legendario
 Play Classic Mode
 Jugar modo clásico
 Back
 Volver
 Play Randomized Mode
-Play Randomized Mode
+Jugar en Modo Randomizado
 Play Remix Mode
-Play Remix Mode
+Jugar en Modo Remix
 Play Legendary Mode
-Play Legendary Mode
+Jugar en Modo Legendario
 Classic Mode trainers
-Classic Mode trainers
+Entrenadores del Modo Clásico
 Remix Mode trainers
-Remix Mode trainers
+Entrenadores del Modo Remix
 Play Expert mode
 Jugar modo experto
 Change hairstyle
@@ -979,7 +979,7 @@ Traje esta flauta especial de mis viajes. Demuéstrame que tienes la medalla de 
 That's it! That's the city's badge. Here you go, as promised.
 ¡Eso es! ¡La medalla de la ciudad! Toma, como prometí.
 This flute's melody makes Pokémon more likely to appear. Use it to catch plenty of Pokémon..
-This flute's melody makes Pokémon more likely to appear.  Use it to catch plenty of Pokémon..
+La melodía de esta flauta aumenta la probabilidad de que aparezcan Pokémon. Úsala para capturar muchos Pokémon.
 I shall go now. We might meet again!
 Me marcho ya. ¡Puede que volvamos a encontrarnos!
 I love coming to this park to relax in the sun with my Pokemon!
@@ -1013,7 +1013,7 @@ Hmm... These clothes look similar, but they're not the right color!
 Hmm... No, these clothes won't do. That won't trick the Pokémon.
 Mmm... No. Estas ropas no sirven. Ni de broma engañaremos al Pokémon así
 It looks like she's wearing some kind of school uniform. You might be able to find something similar at the mart...
-It looks like she's wearing some kind of school uniform.  You might be able to find something similar at the mart...
+Parece que lleva algún tipo de uniforme escolar. Quizá puedas encontrar algo parecido en el supermercado...
 But you're going to need to take off that hat...
 Pero vas a necesitar quitarte ese gorro...
 And you even got the same haircut, that's some dedication. It's as if I'm seeing double!
@@ -1045,7 +1045,7 @@ You think you can beat me? Pfft, I'd like to see you try!
 That's the spirit! I'll give you something if you can beat me!
 ¡Ese es el espíritu! ¡Te daré algo si me derrotas!
 That didn't work!
-That didn't work!
+¡Eso no funcionó!
 No! That's wrong! It's so hard to fuse Pokemon!
 ¡Nah! ¡Estás equivocado! Fusionar Pokémon es recontradifícil
 Argh! Electbro is eager to fight, but its Slowbro body won't react to my commands!
@@ -1095,11 +1095,11 @@ Elecbro no está seguro de seguirte...
 Hey! What do you think you're doing!?
 ¡Ey! ¡¿Se puede saber qué haces?!
 Uh oh...
-Uh oh...
+Oh oh...
 This not a wild Pokémon, it's not for you to take!!
 ¡Oye! ¡Este no es un Pokémon salvaje, no es para que te lo lleves!
 This can't be happening!
-This can't be happening!
+¡Esto no puede estar pasando!
 Heheheh, good job \V[25]!
 Jejeje, buen trabajo \V[25]!
 I guess the subtle approach isn't your style, huh? You need to work on your acting skills!
@@ -1140,11 +1140,11 @@ Oh \PN your Pokémon are all beat up. Rest here while they recover.
 ¡Vaya, \PN! Tus Pokémon están muy debilitados. Descansa aquí un rato para que se recuperen.
 [Map4]
 Splash!
-Splash!
+¡Chapoteo!
 I'm first up. Let's do it!
 ¡Me toca primero! ¡Vamos allá!
 That can't be!
-That can't be!
+¡Eso no puede ser!
 I've been splashed!
 ¡He sido salpicado!
 Congrats on that second badge, champ!
@@ -1166,7 +1166,7 @@ No running around the pool, please!
 You better battle me before Misty!
 ¡Más te vale enfrentarte a mí antes que a Misty!
 Fine! You can battle her...
-Fine! You can battle her...
+¡Bien! Puedes luchar contra ella...
 You can battle Misty now!
 ¡Ahora puedes enfrentarte a Misty!
 Woah! You completely dominated that fight!
@@ -1180,11 +1180,11 @@ My policy is an all-out offensive with \V[5]-type Pokémon! Misty, the world-fam
 I'll let you use two Pokémon for the fight. Are you ready, sweetie?
 Por esta vez... ¡dos Pokémon contra mí! ¿Te animas, cariño?
 I can't believe I lost! All right! You can have the Cascade Badge to show you beat me!
-I can't believe I lost! All right! You can have the Cascade Badge to show you beat me!
+¡No puedo creer que haya perdido! ¡Está bien! ¡Puedes quedarte con la Insignia Cascada para demostrar que me venciste!
 Wow! You're too much! All right! You can have the Cascade Badge to show you beat me!
 ¡Vaya derrota! Has demostrado tu valía. La Medalla Cascada es tuya.
 The Cascade Badge makes all Pokémon up to L30 obey! That includes even the ones obtained in a trade!
-The Cascade Badge makes all Pokémon up to L30 obey!  That includes even the ones obtained in a trade!
+¡La Medalla Cascada hace que todos los Pokémon hasta el nivel 30 obedezcan! ¡Eso incluye incluso a los obtenidos mediante intercambio!
 You can also have my favorite TM!
 ¡Ten mi MT favorita!
 TM55 teaches Water Pulse! Use it on an aquatic Pokémon!
@@ -1250,7 +1250,7 @@ You're the newest recruit, so that means it's your job to deal with it!
 You're the newest recruit, so that means it's your job to deal with the basement infestation.
 ¿Quieres el uniforme oficial? Primero demuestra tu valor... barriendo esa plaga del sotano.
 This'll be your one chance to make a good first impression. You better be up to the task!
-This'll be your one chance to make a good first impression.  You better be up to the task!
+Esta será tu única oportunidad para causar una buena primera impresión. ¡Más te vale estar a la altura!
 Smash them, burn them, or capture them, I don't care. Just make sure that there aren't any left!
 ¡Aplástalos, quémalos o captúralos, me da igual! ¡Solo asegúrate de que no quede ni uno!
 Report back with me upstairs when you're done!
@@ -1330,7 +1330,7 @@ The Team Rocket boss is giving a speech!
 ...Let's get going.
 ...¡En marcha!
 "The Team Rocket Employee Handbook"\n It's a guide detailling the rules of the criminal organization.
-"The Team Rocket Employee Handbook"\n It's a guide detailling the rules of the criminal organization.
+"El Manual del Empleado del Equipo Rocket"\n Es una guía que detalla las reglas de la organización criminal.
 It looks like someone tried to scribble over a handwritten note. You can make out some of the letters...
 Alguien intentó tachar una nota manuscrita. Solo distingues algunas letras...
 ...\V[1]...
@@ -1362,7 +1362,7 @@ No capté tu nombre, por cierto. ¿Cuál es?
 \V[25], huh? That's the same name as the kid that was messing with us in Mt. Moon. Funny coincidence!
 ¿\V[25], eh? El mismo nombre que ese mocoso que se metió con nosotros en el Monte Moon... ¡Qué coincidencia tan curiosa!
 They looked about the same age as you too. Looks like you've got yourself a rival already!
-They looked about the same age as you too.  Looks like you've got yourself a rival already!
+Parecían tener casi tu misma edad. ¡Parece que ya tienes un rival!
 Alright then, \V[25], I'll give you your first mission, so listen carefully.
 Bien entonces, \V[25], te daré tu primera misión, así que escucha con atención.
 Our scout at Nugget Bridge has noticed some fishermen hanging about nearby.
@@ -1408,11 +1408,11 @@ Did you lose the Pokémon or what?
 Huh? Did you evolve it or what!? That's the opposite of what I asked! You were supposed to teach it a lesson!
 ¿¿EH?? ¡¿LO EVOLUCIONASTE O QUÉ?! ¡ESO ES JUSTO LO CONTRARIO DE LO QUE PEDÍ! ¡SE SUPONÍA QUE LE IBAS A DAR UNA LECCIÓN!!
 And it's looking right at me. I told you to bring it back fainted!
-And it's looking right at me. I told you to bring it back fainted!
+Y me está mirando fijamente. ¡Te dije que lo trajeras de vuelta! ¡Me desmayé!
 At least it's fainted, that's what I like to see!
 Al menos se debilito, ¡Eso es lo que quería ver!
 Hey! That Pokémon's is looking right at me. I told you to bring it back fainted!
-Hey! That Pokémon's is looking right at me. I told you to bring it back fainted!
+¡Oye! ¡Ese Pokémon me está mirando fijamente! ¡Te dije que lo trajeras de vuelta debilitado!
 Ahah! Yeah, that's what I like to see!
 ¡AHAH! ¡Sí, eso es lo que me gusta ver!
 It'll think twice before disobeying an order again.
@@ -1456,13 +1456,13 @@ Sí
 No
 No
 Mission 1
-Mission 1
+Misión 1
 Mission 2
-Mission 2
+Misión 2
 Mission 3
-Mission 3
+Misión 3
 Mission 4
-Mission 4
+Misión 4
 Give a fake name
 Darle un nombre falso
 Give your real name
@@ -1522,7 +1522,7 @@ I'm telling you to join!
 OK, you need convincing! I'll make you an offer you can't refuse!
 ¡Vaya, necesitas convencerte! ¡Te haré una oferta que no podrás rechazar!
 Arrgh! You are good!
-Arrgh! You are good!
+¡Argh! ¡Eres bueno!
 Great. You can just sign here and...
 Excelente. Puedes firmar aquí y ...
 Very good heheh. Here's your uniform. Put it on and go report to \C[2]Captain Petrel\C[0] at the HQ in Cerulean City.
@@ -1530,7 +1530,7 @@ Muy bien, jejeje. Aquí está tu uniforme. Póntelo y preséntate con el \C[2]Ca
 OK! I'm No. 5! I'll stomp you!
 ¡DE ACUERDO! ¡Soy el número 5! ¡Te pisotearé!
 No! Defeat!
-No! Defeat!
+¡No! ¡Derrota!
 I did my best, I have no regrets!
 Hice lo mejor que pude, ¡No me arrepiento!
 Ahh! Another Team Rocket grunt!
@@ -1552,13 +1552,13 @@ Ahh, pescar nunca falla para relajarme.
 My Rattata is different from regular Rattata. It's like my Rattata is in the top percentage of Rattatas or something.
 Mi Rattata es diferente a los Rattata comunes. Es como si mi Rattata estuviera en el porcentaje superior de Rattatas o algo así.
 I lost!?
-I lost!?
+¡¿Perdí?!
 My Rattata wants to fight you again. Are you up for it?
 Mi rattata quiere pelear contigo de nuevo. ¿Estás preparado?
 Let's do this!
 ¡Empecemos esto!
 How could my Rattata lose again!?
-How could my Rattata lose again!?
+¡¿Cómo es posible que mi Rattata haya perdido otra vez?!
 Afraid of my Rattata, aren't you?
 Asustado de mi rattata, ¿No?
 This is a great fishing spot. I hooked a lot of rare Pokémon!
@@ -1580,7 +1580,7 @@ This is Nugget bridge. Beat us 5 trainers and win a fabulous prize!
 Think you got what it takes?
 ¿Crees que tienes lo que se necesita?
 Whoo! Good stuff!
-Whoo! Good stuff!
+¡Guau! ¡Qué bueno!
 I'll do anything, please let me keep my Pokémon!
 ¡Haré cualquier cosa, por favor déjame mantener mi Pokémon!
 Nugget Bridge
@@ -1588,7 +1588,7 @@ Puente Pepita
 I'm second! Now it's serious!
 ¡Soy segundo! ¡Ahora es serio!
 No! My well-thought strategy!
-No! My well-thought strategy!
+¡No! ¡Mi estrategia bien pensada!
 We fought in the Nugget challenge like you wanted... What else does Team Rocket want from us?!
 Luchamos en el desafío Pepita como querías... ¡¿Qué más quiere el Team Rocket de nosotros?!
 \PN! Did you come to help me on my field work?
@@ -1652,13 +1652,13 @@ Patches of grass will shake more vigorously when they're hiding a rare Pokémon,
 I'm number three of the Nugget Challenge! Prepare for defeat!
 ¡Soy el tercero del Desafío Pepita! ¡Prepárate para la derrota!
 Unbelievable! I suffered defeat!
-Unbelievable! I suffered defeat!
+¡Increíble! ¡He sufrido una derrota!
 Please... Don't take my Pokémon...
 Por favor... No te lleves a mis Pokémon...
 I'm number four of the Nugget Challenge! Prepare for the bomb!
 ¡Soy el cuarto del Desafío Pepita! ¡Prepárate para la bomba!
 My technique...
-My technique...
+Mi técnica...
 Please leave us alone!
 ¡Por favor, déjanos en paz!
 Ah, the new recruit. \V[25], right? Yeah I guess you'll do.
@@ -1672,7 +1672,7 @@ Who are you? Get lost!
 You did great! Even I was a little bit scared of you for a moment there.
 ¡Lo hiciste genial! Hasta yo me asusté un poco de ti por un momento.
 That's a succesful mission. Go tell the captain the good news!
-That's a succesful mission.  Go tell the captain the good news!
+¡Misión cumplida! ¡Ve a darle la buena noticia al capitán!
 No
 No
 Yes
@@ -1683,7 +1683,7 @@ No hay nada allí.
 This is the perfect place to train my water-type Pokémon!
 ¡Este es el lugar perfecto para entrenar a mi Pokémon de tipo agua!
 I lost!?
-I lost!?
+¡¿Perdí?!
 My Pokémon can't get enough of all these puddles! Do you want to have another fight?
 ¡Mis Pokémon no se cansan de saltar en los charcos! ¿Te animas a otra batalla?
 On the S.S. Anne, I saw trainers from around the world.
@@ -1729,7 +1729,7 @@ That Pokémon you gave me, it's a pretty good fighter!
 I knew I had to fight you!
 ¡Sabía que tenía que pelear contigo!
 I'd knew I'd lose too!
-I'd knew I'd lose too!
+¡Yo también sabía que iba a perder!
 I think I saw something move under these lilypads...
 Creo que vi algo moverse debajo de estos lilypads ...
 Hey, while we're at it, what do you think of trading a Pokemon for one of mines?
@@ -1753,7 +1753,7 @@ Y recuerda, si tu Pokémon se confunde o cae dormido, ¡Cámbialo!
 You're going to see Bill? First, let's fight!
 ¿Iras a ver a Bill? Primero, ¡Peleemos!
 You're something.
-You're something.
+Eres algo especial.
 Bill's lighthouse isn't very far from here, we should have time for another battle, what do you think?
 El faro de Bill no está muy lejos de aquí. Tenemos tiempo para otra batalla, ¿qué te parece?
 I just have to heal my Pokemon and...
@@ -1763,13 +1763,13 @@ Solo tengo que curar a mi Pokémon y ...
 Alright, I'm ready. Let's do this!
 Muy bien, estoy listo. ¡Empecemos!
 You really are something!
-You really are something!
+¡Realmente eres increíble!
 You're a busy little guy, aren't you? I can understand that!
 Eres alguien ocupado, ¿no? ¡Puedo entender eso!
 I just got down from Mt. Moon, but I'm ready!
 Acabo de bajar del monte Moon, ¡pero estoy listo!
 You work hard!
-You work hard!
+¡Trabajas duro!
 I just healed my Pokemon, what do you say we have another battle?
 Acabo de curar a mis Pokémon. ¿Qué dices si tenemos otra batalla?
 Get ready, here I come!
@@ -1779,7 +1779,7 @@ No te preocupes, seguiré entrenando por aquí.
 I'm a cool guy. I've got a girlfriend!
 Soy un tipo genial. ¡Tengo novia!
 Oh well. My girl will cheer me up.
-Oh well. My girl will cheer me up.
+Bueno, qué se le va a hacer. Mi chica me alegrará el día.
 I'll impress my girl by being a gentleman and trade you my rare Bulbtata.
 ¡Impresionaré a mi chica siendo todo un caballero y cambiándote mi raro Bulbtata!
 I'll take any Pokemon that's at least level 20 for it, what do you think?
@@ -1797,7 +1797,7 @@ My girlfriend has been in such awe with me since we did that trade!
 Local trainers come here to practice!
 ¡Los entrenadores locales vienen aquí para practicar!
 You're decent.
-You're decent.
+Eres decente.
 All Pokémon have weaknesses. It's best to raise different kinds.
 Todos los Pokémon tienen debilidades. Es mejor criar de diferentes tipos.
 Say, would you like to have another battle?
@@ -1809,7 +1809,7 @@ Está bien, ¡no quiero presionarte!
 Hi! My boyfriend is cool!
 ¡Hola! ¡Mi novio es genial!
 I was in bad condition!
-I was in bad condition!
+¡Estaba en mal estado!
 I wish my guy was as good as you!
 ¡Ojalá mi chico fuera tan bueno como tú!
 Hey, you want to have another battle?
@@ -1819,7 +1819,7 @@ Déjame curar a mis Pokémon.
 Okay, let's do this!
 ¡Bien, hagamos esto!
 You win again, no big surprise here!
-You win again, no big surprise here!
+¡Has vuelto a ganar, no es ninguna sorpresa!
 Oh well, I'll stick to practicing with my boyfriend then.
 Bueno, entonces seguiré practicando con mi novio.
 Yes
@@ -1899,7 +1899,7 @@ El crucero S.S. Anne está en Ciudad Carmín.
 Its passengers are all trainers!
 ¡Sus pasajeros son todos entrenadores!
 They invited me to their party, but I can't stand fancy do's. Why don't you go instead of me?
-They invited me to their party, but I can't stand fancy do's.  Why don't you go instead of me?
+Me invitaron a su fiesta, pero no soporto las fiestas elegantes. ¿Por qué no vas tú en mi lugar?
 \PN initiated the teleporter's Cell Separator!
 \PN inició el Separador Celular del teletransportador.
 Yeehah! Thanks, bud! I owe you one!
@@ -1920,7 +1920,7 @@ No
 I may be old, but I still know how to fight!
 Puede que sea viejo, ¡pero todavía sé pelear!
 I suppose I may have lost some of my skills due to old age!
-I suppose I may have lost some of my skills due to old age!
+¡Supongo que he perdido algunas de mis habilidades debido a la edad!
 Here, darling. Have this! You can't battle on an empty stomach!
 Aquí, cariño. ¡Toma esto! No puedes pelear con el estómago vacío.
 Pokémon battling is exhausting so it's important to remember to stop to eat once in a while!
@@ -1950,7 +1950,7 @@ Es el subsuelo de Kanto. ¡Se extiende bajo Ciudad Azafrán hasta Ciudad Carmín
 I'm a Pokémon breeder. I specialize in breeding different kinds of Pokémon!
 Soy un criador de Pokémon. ¡Me especializo en reproducir diferentes tipos de Pokémon!
 You have some lovely Pokémon!
-You have some lovely Pokémon!
+¡Tienes unos Pokémon preciosos!
 My Pokémon just laid a new egg, would you like to have it?
 Mi Pokémon acaba de poner un huevo nuevo, ¿quieres quedártelo?
 Received a Pokémon Egg!
@@ -1978,19 +1978,19 @@ I'll make sure to get back to him! Thank you!
 \bYou do want it, don't you?
 \bLo quieres, ¿verdad?
 \bYou have no room for it right now... Come back when you've made room.
-\bYou have no room for it right now...  Come back when you've made room.
+\bNo tienes espacio para eso ahora mismo... Vuelve cuando hayas hecho sitio.
 \PN received the Egg from the Day-Care Man.
 \PN recibió el Huevo del Señor de la Guardería.
 \bYou take good care of it.
 \bCuídalo bien.
 \bI really will keep it. You do want this Egg, yes?
-\bI really will keep it.  You do want this Egg, yes?
+\bDe verdad me lo quedaré. Quieres este Huevo, ¿no?
 \bWell all right then, I'll take it. Thank you.
-\bWell all right then, I'll take it.  Thank you.
+\bMuy bien entonces, me lo quedaré. Gracias.
 \bThat is, I don't think we'll ever find another...
 \bEs decir, no creo que encontremos otro jamás...
 \bNo, no, I'm sure we'll find another one. I'm definitely sure of it!
-\bNo, no, I'm sure we'll find another one.  I'm definitely sure of it!
+\bNo, no, estoy seguro de que encontraremos otro. ¡De verdad que sí!
 \bI'm the Day-Care man.
 \bSoy el señor de la guardería.
 \bI help take care of the precious Pokémon of trainers.
@@ -36947,7 +36947,7 @@ Triple Starter
 [3]
 1
 Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.
-Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.
+Se puede ver a Bulbasaur durmiendo bajo la luz del sol. Tiene una semilla en el lomo y, al absorber los rayos solares, esa semilla crece poco a poco.
 2
 To support its bulb, Ivysaur's legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.
 To support its bulb, Ivysaur's legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.
