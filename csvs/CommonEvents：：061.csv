@@ -1,0 +1,8 @@
+"game difficulty selection","game difficulty selection"
+"\C[7]Game's difficulty?","\C[7]¿Dificultad del juego?"
+"Easy","Fácil"
+"Normal","Normal"
+"Hard","Difícil"
+"More info","Más info"
+"Easy mode:\n- Makes every Pokémon on your team gain exp like in modern Pokémon games","Modo fácil:\n- Todos los Pokémon de tu equipo ganan exp como en los juegos modernos de Pokémon"
+"Hard mode:\n- NPC trainers are higher level and use better AI\n- NPC trainers have access to healing items\n- Next Pokémon's name is not displayed before switching","Modo difícil:\n- Los entrenadores NPC tienen un nivel más alto y usan mejor AI\n- Los entrenadores NPC pueden usar objetos curativos\n- El nombre del próximo Pokémon no se muestra antes de cambiar"

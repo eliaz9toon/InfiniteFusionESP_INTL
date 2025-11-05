@@ -1,0 +1,6 @@
+"ssm_ set head-Body options","ssm_ set head-Body options"
+"Should the selected Pokémon always used as the \C[1]head\C[0] of fusions, the \C[1]body\C[0], or decided at \C[1]random\C[0] each time?","¿El Pokémon seleccionado debe usarse siempre como la \C[1]cabeza\C[0] de las fusiones, el \C[1]cuerpo\C[0], o decidirse \C[1]aleatoriamente\C[0] cada vez?"
+"Head","Cabeza"
+"Body","Cuerpo"
+"Random","Aleatorio"
+"Cancel","Cancelar"
