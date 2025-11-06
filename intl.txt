@@ -14,13 +14,13 @@ Entonces, ¿cómo va tu Pokédex?
 Hmm, let's see..\nYou've seen \v[1] Pokémon, and \nyou've caught \v[2] Pokémon!\nI see!
 Hmm, veamos..\nHas visto \v[1] Pokémon,y \nhas atrapado \v[2] Pokémon!\n¡Ya veo!
 Hmm, you still have a long journey ahead of you! \nKeep on going!
-Hmm, ¡aún te queda un largo camino por recorrer! \n¡Sigue adelante!
+Hmm, ¡aún te queda un largo camino por recorrer! \n¡Sigue asi!
 Hmm, you're catching Pokémon at a decent pace!
-Hmm, estás atrapando Pokémon a un ritmo decente!
+Hmm, estás atrapando Pokémon a un ritmo bastante bueno!
 You've caught a lot of Pokémon, but make sure you're raising them carefully!
 Has atrapado muchos Pokémon, pero asegúrate de entrenarlos bien!
 I didn't even know that many Pokémon existed!
-¡Ni siquiera sabía que existían tantos Pokémon!
+¡No tenia ni idea que existían tantos Pokémon!
 Show me your Pokédex again anytime!
 Muéstrame tu Pokédex de nuevo cuando quieras!
 Show me your Pokédex anytime!
@@ -28,9 +28,9 @@ Muéstrame tu Pokédex cuando quieras!
 Click!\wt[10]\n......\wt[5] ......
 Click!\wt[10]\n......\wt[5]......
 Don't let him get away!
-¡No dejen que escape!
+¡No dejen que se escape!
 Team Rocket's secret base has to be somewhere around here!
-La base secreta del Team Rocket tiene que estar por aquí.
+¡La base secreta del Team Rocket tiene que estar por aquí!
 Elekid is looking somewhat confused.
 Elekid parece un poco confundido.
 Eevee is following enthusiastically!
@@ -40,9 +40,9 @@ Eevee camina con muchísima energía.
 Eevee is following eagerly!
 Eevee te sigue con muchas ganas.
 Eevee is starting to look a bit tired.
-Eevee empieza a parecer un poco cansado.
+Eevee empieza a verse un poco cansado.
 Eevee looks like it's a bit tired. Better bring it back soon!
-Eevee parece un poco cansado. Será mejor regresar pronto.
+Eevee se ve un poco cansado. ¡Lo mejor sera regresar pronto!
 Eevee is exhausted! Better head back now!
 ¡Eevee está exhausto! ¡Será mejor que regreses ahora!
 Okay, here's your first card.
@@ -4237,7 +4237,7 @@ Todavía hace calor.
 It's cold...
 Hace frío...
 Hey! You! Never take off your uniform while you're on duty!
-¡Oiga, usted! ¡Nunca se quite el uniforme durante el servicio!
+¡Oye, Tu! ¡Nunca te quites el uniforme durante el servicio!
 You should always be mindful of the police when you go on missions.
 Siempre debes tener en cuenta a la policía cuando vayas a misiones.
 You're from the Cerulean division? Archer isn't in at the moment anyway. You should go see your captain to get a mission assigned.
